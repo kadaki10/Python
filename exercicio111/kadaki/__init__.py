@@ -1,0 +1,1 @@
+from exercicio111.kadaki import moeda, dado
