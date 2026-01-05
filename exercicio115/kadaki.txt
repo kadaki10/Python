@@ -2,4 +2,7 @@ Gustavo;41
 Reinaldo;28
 Luiz;21
 Elizete;20
-Vitoria;23
+Vitoria;23Reinaldo;3
+Luiz;34
+Diego;34
+Sora;27
